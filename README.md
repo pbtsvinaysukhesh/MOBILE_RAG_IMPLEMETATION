@@ -41,8 +41,6 @@ pip install -r requirements.txt
 ```
 If not, manually install required packages (update this list as needed):
 ```
-pip install sqlite3
-```
 
 ### 5. Run the Scripts
 To create the database:
